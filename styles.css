@@ -1,0 +1,61 @@
+.timerBody {
+  text-align: center;
+  color: white;
+  border-radius: 10px;
+}
+
+body {
+  background-color: #693F9B;
+}
+
+h3 {
+  font-family: "Indie Flower", cursive;
+  font-size: 60px;
+  text-align: center;
+  color:white;
+  padding-bottom: 50px;
+}
+
+.introtext ,.introtext1, .introtext2 {
+  font-family: "Indie Flower", cursive;
+  font-size: 40px;
+  color: white;
+  padding-top: 25px;
+  width:100%;
+
+
+}
+
+.button {
+  text-decoration: none;
+  background-color: #693F9B;
+  border-radius: 5px;
+  display: block;
+  text-align: center;
+  color:white;
+  border: none;
+  font-size: 25px;
+  font-family: "Indie Flower";
+  width:175px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  width: 250px;
+  border: 2px solid black;
+}
+
+.button:hover {
+  background-color: gray;
+
+}
+
+a {
+  text-decoration: none;}
+
+#timer {
+font-family: "Indie Flower", cursive;
+color: white;
+font-size: 25px;
+letter-spacing: 3px;
+padding-top: 12px;
+}
